@@ -22,7 +22,7 @@ You can install the required dependencies using the following commands:
 ```python
 !pip install safetensors
 !pip install matplotlib
-
+```
 
 # NASNet Model
 This script uses the NASNetLarge model for feature extraction. You can choose to load weights from either ImageNet or provide custom weights.
