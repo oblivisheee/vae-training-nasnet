@@ -6,8 +6,11 @@ This repository contains a script for training a Variational Autoencoder (VAE) u
 - [Integrio Team](https://github.com/Integrio-Team)
 - [oblivisheee](https://github.com/oblivisheee)
 
+# Open in colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/189xGDghCLFY-Bn2KuuDMyikogAsdz9rM?usp=sharing)
+
 ## Usage
-1. Clone this repository to your local machine or your preferred environment.
+1. Clone this repository to google colab or your preferred environment.
 2. Ensure you have the required dependencies installed by following the installation instructions.
 3. Customize the script to meet your specific project requirements, such as input image dimensions, dataset paths, and model hyperparameters.
 4. Run the script to train your VAE model.
@@ -16,9 +19,11 @@ This repository contains a script for training a Variational Autoencoder (VAE) u
 You can install the required dependencies using the following commands:
 
 ```python
-!pip install safetensors
-!pip install matplotlib
-
+pip install safetensors
+pip install matplotlib
+pip install tensorflow
+pip install numpy
+```
 
 # NASNet Model
 This script uses the NASNetLarge model for feature extraction. You can choose to load weights from either ImageNet or provide custom weights.
