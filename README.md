@@ -1,9 +1,5 @@
 # VAE Training with NASNet
 
-![GitHub contributors](https://img.shields.io/github/contributors/Integrio-Team/vae-training-nasnet)
-![GitHub last commit](https://img.shields.io/github/last-commit/Integrio-Team/vae-training-nasnet)
-![GitHub repo size](https://img.shields.io/github/repo-size/Integrio-Team/vae-training-nasnet)
-
 This repository contains a script for training a Variational Autoencoder (VAE) using the NASNetLarge neural network architecture. The script is designed for flexibility and customization, making it suitable for various image generation tasks.
 
 ## Authors
