@@ -1,20 +1,20 @@
-# VAE Training Script with NASNet
+# VAE Training with NASNet
 
-![GitHub contributors](https://img.shields.io/github/contributors/oblivisheee/VAE-NASNet)
-![GitHub last commit](https://img.shields.io/github/last-commit/oblivisheee/VAE-NASNet)
-![GitHub repo size](https://img.shields.io/github/repo-size/oblivisheee/VAE-NASNet)
+![GitHub contributors](https://img.shields.io/github/contributors/Integrio-Team/vae-training-nasnet)
+![GitHub last commit](https://img.shields.io/github/last-commit/Integrio-Team/vae-training-nasnet)
+![GitHub repo size](https://img.shields.io/github/repo-size/Integrio-Team/vae-training-nasnet)
 
-This script is designed for training a Variational Autoencoder (VAE) using the NASNetLarge neural network architecture. It is currently in alpha version, and improvements are being actively worked on.
+This repository contains a script for training a Variational Autoencoder (VAE) using the NASNetLarge neural network architecture. The script is designed for flexibility and customization, making it suitable for various image generation tasks.
 
 ## Authors
-- [oblivisheee](https://github.com/oblivisheee)
 - [Integrio Team](https://github.com/Integrio-Team)
+- [oblivisheee](https://github.com/oblivisheee)
 
 ## Usage
-1. Copy this script to your Google Drive and customize it as needed for your specific project.
-2. Ensure you have the required libraries installed by running the provided installation commands.
-3. Adjust the script's parameters as needed, such as input image dimensions, training data paths, and hyperparameters.
-4. Run the script in your preferred environment (e.g., Google Colab) to train the VAE model.
+1. Clone this repository to your local machine or your preferred environment.
+2. Ensure you have the required dependencies installed by following the installation instructions.
+3. Customize the script to meet your specific project requirements, such as input image dimensions, dataset paths, and model hyperparameters.
+4. Run the script to train your VAE model.
 
 ## Installation
 You can install the required dependencies using the following commands:
@@ -22,7 +22,7 @@ You can install the required dependencies using the following commands:
 ```python
 !pip install safetensors
 !pip install matplotlib
-```
+
 
 # NASNet Model
 This script uses the NASNetLarge model for feature extraction. You can choose to load weights from either ImageNet or provide custom weights.
