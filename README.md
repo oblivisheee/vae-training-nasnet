@@ -40,5 +40,5 @@ This script uses the NASNetLarge model for feature extraction. You can choose to
   Training progress is recorded, including loss values and learning rate adjustments.
 # Testing
   After training, you can use the trained model to generate images by providing an input image path.
-  The generated image will be displayed alongside the original image for visual comparison.
+  The generated image will be displayed alongside the original image for visual comparison.<br>
 *Feel free to customize and extend this script to suit your specific VAE training needs.*
