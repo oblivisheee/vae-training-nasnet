@@ -1,6 +1,6 @@
 # VAE Training with NASNet
 
-![![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/189xGDghCLFY-Bn2KuuDMyikogAsdz9rM?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/189xGDghCLFY-Bn2KuuDMyikogAsdz9rM?usp=sharing)
 
 This repository contains a script for training a Variational Autoencoder (VAE) using the NASNetLarge neural network architecture. The script is designed for flexibility and customization, making it suitable for various image generation tasks.
 
