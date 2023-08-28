@@ -1,1 +1,2 @@
-# vae-training
+# vae-training-NASNet
+A simple 
