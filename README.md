@@ -5,6 +5,8 @@
 
 This repository contains a script for training a Variational Autoencoder (VAE) using the NASNetLarge neural network architecture. The script is designed for flexibility and customization, making it suitable for various image generation tasks.
 
+Will be in development for a unchosen time.
+
 ## Authors
 - [integai](https://github.com/integai)
 - [oblivisheee](https://github.com/oblivisheee)
